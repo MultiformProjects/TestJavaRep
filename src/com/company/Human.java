@@ -1,5 +1,5 @@
 public class Human{
 
-    private age;
+    private int age;
 
 }
