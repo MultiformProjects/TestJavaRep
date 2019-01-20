@@ -1,0 +1,6 @@
+//новый класс
+public class Human{
+	
+	private age;
+
+}
